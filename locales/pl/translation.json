@@ -1,0 +1,44 @@
+{
+  "navbar.Title.Line1": "Weekend z ginekologią",
+  "navbar.Title.Line2": "Sekrety onkologii",
+  "navbar.LogoAlt": "Logo czwartego weekendu z ginekologią",
+  "navbar.HomePage": "Strona główna",
+  "navbar.Program": "Program",
+  "navbar.SpeakersAndOrganisers": "Mówcy i organizatorzy",
+  "navbar.Photos": "Galeria",
+  "navbar.Register": "ZAREJESTRUJ SIĘ",
+
+  "program.Date.Label": "Termin",
+  "program.Date.Value": "14-16 kwietnia",
+  "program.Venue.Label": "Adres",
+  "program.Venue.Value.Line1": "Collegium Anatomicum",
+  "program.Venue.Value.Line2": "ul. Tytusa Chałubińskiego 5, Warszawa",
+  "program.PhotoAlt": "Program w wersji obrazkowej",
+  "program.Day": "Dzień",
+  "program.Activity.Time": "Czas",
+  "program.Activity.Name": "Wydarzenie",
+  "program.Activity.Speaker": "Prowadzący",
+  "program.Activity.Place": "Lokalizacja",
+  "program.Activity.ShowDescription": "Zobacz opis",
+  "program.Activity.NoLecturePlanned": "Brak zaplanowanych wykładów",
+  "program.Activity.Seminars": "Warsztaty",
+  "program.Activity.NoSeminarPlanned": "Brak zaplanowanych warsztatów",
+
+  "speakersAndOrganisers.speakers": "Mówcy",
+  "speakersAndOrganisers.organisers": "Organizatorzy",
+  "speakersAndOrganisers.personAlt": "Zdjęcie osoby ",
+
+  "notFound.boo": "Bu!",
+  "notFound.message": "Obudziłeś ducha, który mieszka na tej pustej stronie",
+
+  "gallery.photoAlt": "Zdjęcie z konferencji",
+
+  "countdown.Days": "DNI",
+  "countdown.Hours": "GODZINY",
+  "countdown.Minutes": "MINUTY",
+  "countdown.Seconds": "SEKUNDY",
+
+  "slideshow.BackgroundPhoto.Alt": "Zdjęcie w tle",
+
+  "footer.copyright": "2022 © Studenckie koło naukowe położnictwa i ginekologii WUM"
+}

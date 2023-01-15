@@ -1,0 +1,44 @@
+{
+  "navbar.Title.Line1": "Weekend with gynecology",
+  "navbar.Title.Line2": "Secrets of oncology",
+  "navbar.LogoAlt": "The conference's logo",
+  "navbar.HomePage": "Home",
+  "navbar.Program": "Program",
+  "navbar.SpeakersAndOrganisers": "Speakers and organisers",
+  "navbar.Photos": "Photos",
+  "navbar.Register": "REGISTER",
+
+  "program.Date.Label": "Date",
+  "program.Date.Value": "April 14th-16th",
+  "program.Venue.Label": "Address",
+  "program.Venue.Value.Line1": "Collegium Anatomicum",
+  "program.Venue.Value.Line2": "Tytusa Chałubińskiego 5, Warsaw",
+  "program.PhotoAlt": "Photo version of the program",
+  "program.Day": "Day",
+  "program.Activity.Time": "Time",
+  "program.Activity.Name": "Event",
+  "program.Activity.Speaker": "Speaker",
+  "program.Activity.Place": "Venue",
+  "program.Activity.ShowDescription": "Show description",
+  "program.Activity.NoLecturePlanned": "No lectures planned for today",
+  "program.Activity.Seminars": "Seminars",
+  "program.Activity.NoSeminarPlanned": "No seminars planned for today",
+
+  "speakersAndOrganisers.speakers": "Speakers",
+  "speakersAndOrganisers.organisers": "Organisers",
+  "speakersAndOrganisers.personAlt": "A picture of ",
+
+  "notFound.boo": "Boo!",
+  "notFound.message": "You woke up the ghost living on this empty page",
+
+  "gallery.photoAlt": "Photo from conference",
+
+  "countdown.Days": "DAYS",
+  "countdown.Hours": "HOURS",
+  "countdown.Minutes": "MINUTES",
+  "countdown.Seconds": "SECONDS",
+
+  "slideshow.BackgroundPhoto.Alt": "Background Photo",
+
+  "footer.copyright": "2022 © Gynecology student association WUM"
+}
